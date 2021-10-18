@@ -1,6 +1,0 @@
-service:
-  url: "test.com"
-
-myservice:
-  url:
-    path: ${service.url}/path
